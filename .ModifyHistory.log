@@ -1,0 +1,5 @@
+[2024-xx-xx]
+- 创建 requirements.txt 文件，包含 Flask 和 requests 依赖
+- 创建 Dockerfile，使用 python:3.9-slim 作为基础镜像
+- 创建 .dockerignore 文件以排除不必要文件
+- 设置容器暴露端口 60001 
